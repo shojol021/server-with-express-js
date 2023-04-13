@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+      "name": "MacBook Pro",
+      "brand": "Apple",
+      "model": "M1",
+      "price": 1499.00,
+      "description": "A powerful laptop for professionals.",
+      "specs": {
+        "screen_size": "13 inches",
+        "processor": "Apple M1 chip",
+        "memory": "8 GB",
+        "storage": "256 GB SSD"
+      }
+    },
+    {
+        "id": 2,
+      "name": "Canon EOS Rebel T7",
+      "brand": "Canon",
+      "model": "EOS Rebel T7",
+      "price": 399.00,
+      "description": "A beginner-friendly DSLR camera.",
+      "specs": {
+        "sensor_size": "APS-C",
+        "megapixels": 24.1,
+        "iso_range": "100-6400",
+        "video_resolution": "1080p"
+      }
+    },
+    {
+        "id": 2,
+      "name": "Samsung Galaxy S21",
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "price": 799.99,
+      "description": "A high-end smartphone with a sleek design.",
+      "specs": {
+        "screen_size": "6.2 inches",
+        "processor": "Snapdragon 888",
+        "memory": "8 GB",
+        "storage": "128 GB"
+      }
+    },
+    {
+        "id": 3,
+      "name": "Fitbit Versa 3",
+      "brand": "Fitbit",
+      "model": "Versa 3",
+      "price": 229.95,
+      "description": "A smartwatch for fitness enthusiasts.",
+      "specs": {
+        "display_type": "AMOLED",
+        "battery_life": "6+ days",
+        "heart_rate_monitor": true,
+        "water_resistance": "50 meters"
+      }
+    },
+    {
+        "id": 4,
+      "name": "Nike Air Zoom Pegasus 38",
+      "brand": "Nike",
+      "model": "Air Zoom Pegasus 38",
+      "price": 120.00,
+      "description": "A popular running shoe with responsive cushioning.",
+      "specs": {
+        "sole_type": "Rubber",
+        "arch_type": "Neutral",
+        "heel_drop": "10 mm"
+      }
+    },
+    {
+        "id": 5,
+      "name": "Amazon Echo (4th Gen)",
+      "brand": "Amazon",
+      "model": "Echo (4th Gen)",
+      "price": 99.99,
+      "description": "A smart speaker with improved sound quality.",
+      "specs": {
+        "speaker_type": "3.0-inch woofer, dual 0.8-inch tweeters",
+        "voice_assistant": "Alexa",
+        "connectivity": "Wi-Fi, Bluetooth"
+      }
+    },
+    {
+        "id": 6,
+      "name": "Instant Pot Duo",
+      "brand": "Instant Pot",
+      "model": "Duo",
+      "price": 89.99,
+      "description": "A versatile pressure cooker for home cooks.",
+      "specs": {
+        "capacity": "6 quarts",
+        "pressure_levels": "High, Low",
+        "cooking_programs": "13"
+      }
+    }
+]
